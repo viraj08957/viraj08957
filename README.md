@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viraj0895
-- 👀 I’m interested in machine learning and data analytics
-- 🌱 I’m currently learning  machine learning algorithms and python
+- 👀 I’m interested in Developement and I have major in MERN stack Technology.
+- 🌱 I’m currently doing my internship in Numetry Technology Pune, as Software Developer Intern
 - 💞️ I’m looking to collaborate on ... open source project
 - 📫 How to reach me ... you can contact with me through my mail--virajraut089@gmail.com
 - you can also checkout my Portfolio - https://virajraut089.wixsite.com/viraj-raut
