@@ -4,7 +4,7 @@
 
 💻 I have experience with Java, HTML, CSS, JavaScript, and XML for test automation and development.
 
-🛠️ Skilled in Selenium WebDriver, TestNG, Page Object Model (POM), Postman, Oracle SQL Developer, Jenkins, and JIRA for efficient testing and automation.
+🛠️ Skilled in Selenium WebDriver, TestNG, Page Object Model (POM), Postman, Oracle SQL Developer, Jenkins, Git and GitHub for version control and JIRA for efficient testing and automation.
 
 🔍 Strong knowledge of Smoke Testing, Retesting, Regression Testing, Database Testing, and API Testing to ensure software quality.
 
